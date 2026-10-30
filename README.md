@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rene Montanaro 👋
 
-<!--
-**reneMontanaro/renemontanaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Leader | Digital Products | Fintech | Payments | AI
 
-Here are some ideas to get you started:
+I build digital products that connect customer needs, technology, and business outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With 10+ years of experience in Product Management, I've led product strategies, teams, and digital platforms across retail, e-commerce, financial services, and SaaS.
+
+### What I bring
+- Product strategy and business growth
+- Product leadership and team development
+- Digital platforms, e-commerce and payments
+- Customer experience and conversion optimization
+- Technology, architecture and AI-driven experimentation
+
+### Selected experience
+- **Grupo Casas Bahia:** Led Cart, Checkout and Order Management products.
+- **Minu:** Led Product Managers across e-commerce, benefits platforms and digital products.
+- **Zurich Santander:** Worked on digital products and financial services.
+
+### Currently exploring
+- AI applied to Product Management
+- Building digital products and prototypes
+- New business models and technology-driven experiences
+
+### Let's connect
+[LinkedIn](www.linkedin.com/in/rene-montanaro-xavier-2a061316)
