@@ -16,7 +16,7 @@ With 10+ years of experience in Product Management, I've led product strategies,
 ### Selected experience
 - **Grupo Casas Bahia:** Led Cart, Checkout and Order Management products.
 - **Minu:** Led Product Managers across e-commerce, benefits platforms and digital products.
-- **Zurich Santander:** Worked on digital products and financial services.
+- **Zurich Santander:** Led product initiatives in digital insurance, connecting business and technology teams and driving operational efficiency, including cost savings of over R$5M.
 
 ### Currently exploring
 - AI applied to Product Management
@@ -24,4 +24,4 @@ With 10+ years of experience in Product Management, I've led product strategies,
 - New business models and technology-driven experiences
 
 ### Let's connect
-[LinkedIn](www.linkedin.com/in/rene-montanaro-xavier-2a061316)
+[LinkedIn](https://www.linkedin.com/in/rene-montanaro-xavier-2a061316/)
